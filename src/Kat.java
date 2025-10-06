@@ -11,7 +11,7 @@ public class Kat {
             Random randomantalKatte = new Random();
             int antalKatte = randomantalKatte.nextInt(100) + 1;
 
-            System.out.println("Der er " + randomantalKatte + " " + kat + " " + "i haven");
+            System.out.println("der er " + randomantalKatte + " " + kat + " " + "i haven");
 
 
         }
