@@ -9,7 +9,7 @@ public class Kat {
             kat = "<kat";
 
             Random randomantalKatte = new Random();
-            int antalKatte = randomantalKatte.nextInt(100) + 1;
+            int antalkatte = randomantalKatte.nextInt(100) + 1;
 
             System.out.println("der er " + randomantalKatte + " " + kat + " " + "i haven");
 
