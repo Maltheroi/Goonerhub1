@@ -8,7 +8,7 @@ public class Rotte {
         String answer = sc.nextLine();
 
         if (answer.equalsIgnoreCase(" ja")) {
-            System.out.println("Du har en rotte!");
+            System.out.println("Du har en Rotte!");
         } else if (answer.equalsIgnoreCase(" nej")) {
             System.out.println("Du har ikke en rotte!");
         } else {
