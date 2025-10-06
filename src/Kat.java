@@ -6,7 +6,7 @@ public class Kat {
             String kat;
 
 
-            kat = "kat";
+            kat = "<kat";
 
             Random randomantalKatte = new Random();
             int antalKatte = randomantalKatte.nextInt(100) + 1;
