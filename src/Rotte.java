@@ -9,7 +9,7 @@ public class Rotte {
 
         if (answer.equalsIgnoreCase(" ja")) {
             System.out.println("Du har en Rotte!");
-        } else if (answer.equalsIgnoreCase(" nej")) {
+        } else if (answer.equalsIgnoreCase(" Nej")) {
             System.out.println("Du har ikke en rotte!");
         } else {
             System.out.println("Ugyldigt svar. Skriv 'ja' eller 'nej'.");
